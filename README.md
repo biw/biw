@@ -4,7 +4,7 @@
 - [libopus-node](https://github.com/biw/libopus-node): A thin, modern node wrapper around the official C opus implementation
 - [swift-node](https://github.com/biw/swift-node): Build typed Node.js native modules in Swift
 - [macos-native-clone-file](https://github.com/biw/macos-native-clone-file): macOS copy-on-write support for Node.js
-- [macos-foundation-models](https://github.com/biw/macos-foundation-models): Node bindings for Apple’s Foundation Models, with AI SDK support and an OpenAI-compatible server
+- [macos-foundation-models](https://github.com/biw/macos-foundation-models): Node bindings for Apple’s Foundation Models, with AI SDK support & an OpenAI-compatible server
 - [detect-rosetta](https://github.com/biw/detect-rosetta): Node.js package for detecting if a process is running under Rosetta translation on macOS
 - [detect-avx](https://github.com/biw/detect-avx): Node.js package for detecting AVX instruction set support on x86 processors
 
