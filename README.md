@@ -1,5 +1,3 @@
-### Projects
-
 <!-- PROJECTS:START -->
 #### ⚡ Native & Node.js
 
