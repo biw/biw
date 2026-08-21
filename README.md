@@ -10,17 +10,18 @@
 
 #### 🖥️ Electron
 
+- **[electron-window-glass](https://github.com/biw/electron-window-glass)**: Native macOS window effects for Electron's BrowserWindow.
 - **[keychain-store](https://github.com/biw/keychain-store)**: Secure storage for Electron & Node apps, backed by the modern macOS Data Protection Keychain
 - **[electron-types](https://github.com/biw/electron-types)**: TypeScript type definitions extracted from the electron package
 - **[electron-launch-handler](https://github.com/biw/electron-launch-handler)**: Single-instance and deep-link plumbing for Electron apps
 - **[eslint-plugin-electron-security](https://github.com/biw/eslint-plugin-electron-security)**: ESLint rules based on a subset of Electron's official security checklist
 
-#### 🛠️ Build & framework tooling
+#### 🛠️ Build Tooling
 
 - **[vite-plugin-native-modules](https://github.com/biw/vite-plugin-native-modules)**: A Vite plugin for seamlessly integrating Node.js native modules (`.node` files)
 - **[vite-plugin-v8-bytecode](https://github.com/biw/vite-plugin-v8-bytecode)**: Compile Vite CommonJS chunks into V8 bytecode for Node.js and Electron
 
-#### 🧭 Developer workflow
+#### 🧭 Agent Workflows
 
 - **[skills-updater](https://github.com/biw/skills-updater)**: Keep agent skills updated across your GitHub repositories
 - **[skills](https://github.com/biw/skills)**: My personal installable skills for coding agents
