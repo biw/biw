@@ -41,7 +41,7 @@
 - **[tiny-throttle](https://github.com/biw/tiny-throttle)**: A tiny throttle and debounce utility
 - **[typetac](https://github.com/biw/typetac)**: Type-safe, autocompleting Tachyons class names for TypeScript
 
-### Other projects
+### Other Projects
 
 - **[keybinding-table](https://github.com/biw/keybinding-table)**: Browser keybinding reference for Firefox, Chrome, Edge, and Safari
 - **[vscode-plv8](https://github.com/biw/vscode-plv8)**: vscode syntax highlights for PLV8
